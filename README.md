@@ -1,5 +1,8 @@
 Ostien Gran Chuleta
 =========================
+
+![imagen](https://github.com/Ostien1/GranChuleta/assets/75393434/48ea5489-b423-43ed-8df7-5fee3047d672)
+
 Me llamo Juan Pablo Ruiz, pero por estos ambitos soy Ostien. Soy estudiante de ciberseguridad y desarrollador web. La ciberseguridad es un tema que me apasiona y desde hace ya mas de dos anos que llevo estudiando por mi cuenta distintas
 certificaciones y ramas de este campo tan apasionante. Tambien tengo experiencia laboral aunque a la hora de escribir esto tengo un perfil junior.
 

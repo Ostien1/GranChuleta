@@ -17,5 +17,4 @@ Es posible que en los distintos nodos haya erratas, y algunos errores. Esto es a
 
 Espero que os sea util!
 
-Descargar aqui --> https://drive.google.com/drive/folders/12zKl7CrOuihTVK0iiQHID4OJDNUZkbH-?usp=sharing
 Password -> OstienRules!!4
